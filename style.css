@@ -1,0 +1,27 @@
+.stylebutton {
+    padding: 8px;
+    margin: 5px;
+    background-color: rgb(11, 51, 22);
+    color: wheat;
+    border-color: brown;
+}
+body{
+    background: #ee9ca7;
+    background: -webkit-linear-gradient(to right, #ee9ca7, #ffdde1);
+    background: linear-gradient(to right, #ee9ca7, #ffdde1);
+}
+input {
+    height: 40px;
+}
+
+button {
+    border-radius: 35px !important;
+    padding: 8px;
+    margin: 8px !important;
+}
+
+.container {
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: row;
+}
